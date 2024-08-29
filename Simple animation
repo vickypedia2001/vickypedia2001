@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cool Background Animation</title>
+    <style>
+
+        h1{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            text-align: center;
+            font-size: 80px;
+        }
+
+        .intro{
+            display: grid;
+            grid-template-columns:repeat(24,1fr);
+            row-gap: 6px;
+            background-color: black;
+        }
+
+        .ani{
+            height: 48px;
+            width: 48px;
+            background-color: black;
+            transition: 0.1s ease-out;
+        }
+
+        .ani:hover{
+            background-color: rgb(21, 255, 0);
+            animation-name: shine;
+            animation-duration: 0.7s;
+            animation-iteration-count: infinite;
+        }
+
+        @keyframes shine{
+            50%{
+            background-color: rgb(255, 42, 0);
+            }
+            100%{
+            background-color: rgb(238, 255, 0);
+            }
+        }
+
+    </style>
+</head>
+<body>
+    <h1>BACKGROUND ANIMATION</h1>
+    <div class="intro">
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+        <div class="ani"></div>
+    </div>
+</body>
+</html>
